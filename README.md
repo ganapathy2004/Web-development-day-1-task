@@ -1,5 +1,5 @@
 # Web-development-day-1-task
-## AIM
+## AIM:
 To develop a website with picture and some details which includes title,paragraph and link.
 ## CODE:
 ```
