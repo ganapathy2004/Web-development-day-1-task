@@ -6,7 +6,7 @@ To develop a website with picture and some details which includes title,paragrap
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Gokul</title>
+        <title>Ganapathy</title>
         <style>
             body{
                 background-image: url(pexels-nietjuh-1906440.jpg);
@@ -22,7 +22,7 @@ To develop a website with picture and some details which includes title,paragrap
     <body bgcolor="white">
         <img src="pfp.png" width="200" height="200">
         <center>
-        <h1>Gokul k </h1>
+        <h1>Ganapathy k </h1>
         
 
         <h2>ABOUT ME</h2>
@@ -32,7 +32,7 @@ To develop a website with picture and some details which includes title,paragrap
         <h3>EDUCATION</h3>
         <p>Bachelor of Engineering in Electronics and Communication Engineering<br>
            Saveetha engineering college<br>
-           2022-2026 Batch.
+           2022-2026 .Batch
            
         </p>
 
@@ -51,6 +51,5 @@ To develop a website with picture and some details which includes title,paragrap
 </html>
 
 ```
-## OUTPUT:
-![image](https://github.com/Gokulkannarasan/Web-development-day-1-task/assets/156115271/f72180c0-4986-4e6b-9f94-c773eb03443b)
+
 
